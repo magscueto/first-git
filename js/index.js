@@ -16,4 +16,4 @@ apellido = "Cueto";
 
 let pais = "Argentina";
 
-console.log("Mi nombre es: " + nombre + " " + apellido + " y vivo en " + pais +"." + " Mi DNI es: " + DNI + ".");
+console.log(`Mi nombre es: ${nombre} ${apellido} y vivo en ${pais}. Mi DNI es: ${DNI}.`);
