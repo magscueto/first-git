@@ -7,6 +7,19 @@ let nombre;
 
 var apellido;
 
+//Declaración de variables correcta
+let $provincia= "Bs. As."
+let _pasis = "Argentina"
+
+//let 1234 = NO se pueden declarar variables numéricas
+//let -empleado = NO se puede declarar una variable con guión medio
+
+let nombreEmpresa = "Camel Case" //COrrecta escritura
+
+//Otras variables en JS BOOLEAN
+let falso= false;
+let verdadero= true;
+
 //Declaración y asignación de valor a una variable
 const DNI = 123456789;
 
